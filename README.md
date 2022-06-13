@@ -2,7 +2,7 @@
 
 
 ## Neue Zeilen
-Das ist eine neue Zeile.
+Das ist eine neue Zeile.<br>
 Das ist eine weitere neue Zeile.
 
 
